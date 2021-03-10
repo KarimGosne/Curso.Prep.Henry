@@ -1,0 +1,2 @@
+PROTOTYPE: En JS los objetos tienen otros objetos llamados prototypes que se utilizan como una fuente de propiedades alternativa.
+CONSTRUCTORS: Es un método especial para crear e inicializar un objeto creado a partir de una clase.
