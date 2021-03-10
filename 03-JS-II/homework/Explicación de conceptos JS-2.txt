@@ -1,2 +1,0 @@
-FOR: Es un bucle que se utiliza para repetir una o más instrucciones un determinado número de veces.
-&&, ||, !: Se llaman operadores lógicos que combinan dos expresiones de igualdad y responden si alguna de las dos es verdadera, si ambas son verdadderas o si ninguna es verdadera.
