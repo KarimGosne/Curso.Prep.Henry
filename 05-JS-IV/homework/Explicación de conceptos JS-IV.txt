@@ -1,0 +1,5 @@
+OBJETOS: Es una colección de propiedades
+PROPIEDADES: Son asociaciones entre los objetos y sus valores.
+MÉTODOS: Son funciones guardadas en un objeto para ejecutar una tarea.
+BUBCLE FOR...IN: Es una sintáxis del bucle estándar que comienza igual pero entre paréntesis se declara una variable, la palabra clave in y el nombre del objeto.
+NOTACIÓN DE PUNTOS VS NOTACIÓN DE CORCHETES: Son formas de acceder a las propiedades o funciones de un objeto pero con la diferencia que la notación de corchetes permite acceder a las propiedades que tienen un espacio o carácter no permitido en la notación de puntos.
