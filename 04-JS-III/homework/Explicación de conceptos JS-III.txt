@@ -1,0 +1,1 @@
+ARRAY: También llamado matriz, es una zona de almacenamiento contiguo que contiene una serie de elementos del mismo tipo, estos son los elementos de la matriz.
