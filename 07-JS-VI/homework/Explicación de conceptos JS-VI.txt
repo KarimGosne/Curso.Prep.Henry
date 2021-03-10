@@ -1,0 +1,1 @@
+FUNCIONES CALLBACK: Es una función que recibe como argumento otra función y la ejecuta (solo pasando la definición de la función y no la ejecuta en el parámetro).
