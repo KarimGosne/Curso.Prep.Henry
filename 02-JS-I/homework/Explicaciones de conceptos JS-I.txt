@@ -2,4 +2,4 @@ VARIABLES: Es un contenedor de información o de un valor que se declara por med
 STRINGS: Es un encadenamiento de caracteres encerrados entre comillas.
 FUNCIONES: Es un objeto que contiene instrucciones para que el intérprete realize alguna tarea.
 DECLARACIONES: Son las instrucciones para que el intérprete realize alguna tarea.
-VALORES BOOLEANOS: Son valores de un objeto que indican si este es verdadero o falso.
+VALORES BOOLEANOS: Son valores de un objeto que indican si este es verdadero o falso
